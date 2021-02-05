@@ -1,1 +1,2 @@
 This is the Angular Application
+and also single page application
